@@ -9,3 +9,4 @@ tmp repo for holding fomo stuff
 
 ## Gradient Boosting
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/index.html) has nice documentation, [plenty of examples and tutorials](https://github.com/dmlc/xgboost/tree/master/demo) and R & python interfaces. It seems this is a very strong ML package, but could be more difficult to use than other options.
+* [Another explanation of GBM (including a nice visual representation))[https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/]. Also goes into extensive depth explaining all the parameters.
