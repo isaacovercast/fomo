@@ -1,6 +1,9 @@
 # fomo
 tmp repo for holding fomo stuff
 
+# Pre-processing/Feature Engineering
+
+
 # Gradient boosting & Random forest
 [TL;DR](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/) Gradient boosting is "better", but random forest is easier to tune, and maybe faster. Additionally, gradient boosting have trouble when the training data is noisy.
 
