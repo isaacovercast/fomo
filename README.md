@@ -16,3 +16,6 @@ tmp repo for holding fomo stuff
 
 # Deep learning
 * Zhou et al 2018 [A primer on deep learning in genomics](https://sci-hub.tw/https://www.nature.com/articles/s41588-018-0295-5)
+
+## Deep learning frameworks
+* [fastai](https://docs.fast.ai/index.html): Python wrapper around pytorch focused on making construction and training of NN fast and easy. Good documentation and examples (focused on vision, text classficiation, and tabular datasets).
