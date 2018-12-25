@@ -22,6 +22,7 @@ tmp repo for holding fomo stuff
 
 ## Deep learning frameworks
 * [fastai](https://docs.fast.ai/index.html): Python wrapper around pytorch focused on making construction and training of NN fast and easy. Good documentation and examples (focused on vision, text classficiation, and tabular datasets).
+* [keras](https://keras.io/), a high level python deep learning library. [Tons of excellent examples in the repo](https://github.com/keras-team/keras/tree/master/examples).
 
 # Time series
 * [Time Series Prediction Using LSTM Deep Neural Networks](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks) - This person actually implements the LSTM neural network from scratch! Cool for learning about the nuts and bolts.
