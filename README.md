@@ -1,5 +1,5 @@
-# fomo
-tmp repo for holding fomo stuff
+# fomo - Figuring out Machine Learning Ourselves
+Fomo is an ongoing "machine learning bootcamp", based on the idea that ML is gaining traction and honestly we are collectively not super aware of the strengths and weaknesses of how this can be applied in a biological/evolutionary context. In this light, we have established of a collective monthly ML hackathon. We will meet regularly (once a month), sit down together and hash through different ML paradigms, think about how these can be applied to the kinds of data we are generating and the questions we have, and collectively work through tutorials, and maybe even do some preliminary exploratory analysis. For example, one week we might evaluate boosted regression. What are the core ideas of what this is doing? How do you achieve this in R and python? Explore how this can be applied to genetic/morphological/abundance/phylogenetic data.
 
 * [An excellent 12-part ML Course:  Introduction to Machine Learning for Coders](https://www.fast.ai/2018/09/26/ml-launch/), from the makers of `fastai`. "Unlike many educational materials in the field, our approach is “code first” rather than “math first”."
 * [Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/): An extensive ML online course based on sklearn & TensorFlow. Very, very long.
