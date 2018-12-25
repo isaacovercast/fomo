@@ -19,3 +19,10 @@ tmp repo for holding fomo stuff
 
 ## Deep learning frameworks
 * [fastai](https://docs.fast.ai/index.html): Python wrapper around pytorch focused on making construction and training of NN fast and easy. Good documentation and examples (focused on vision, text classficiation, and tabular datasets).
+
+# Other ML-like applications (with special attention to biodiversity analysis)
+* [ Gradient forests: calculating importance gradients
+ on physical predictors](https://www.jstor.org/stable/pdf/23144030.pdf)
+* More on gradient forests: [Ecological genomics meets community-level modelling of
+biodiversity: mapping the genomic landscape of current and
+future environmental adaptation](https://sci-hub.tw/https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12376)
