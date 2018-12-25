@@ -20,6 +20,9 @@ tmp repo for holding fomo stuff
 ## Deep learning frameworks
 * [fastai](https://docs.fast.ai/index.html): Python wrapper around pytorch focused on making construction and training of NN fast and easy. Good documentation and examples (focused on vision, text classficiation, and tabular datasets).
 
+# Time series
+* [Time Series Prediction Using LSTM Deep Neural Networks](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks) - This person actually implements the LSTM neural network from scratch! Cool for learning about the nuts and bolts.
+
 # Other ML-like applications (with special attention to biodiversity analysis)
 * [Ellis et al 2011 - Gradient forests: calculating importance gradients
  on physical predictors](https://www.jstor.org/stable/pdf/23144030.pdf)
