@@ -5,7 +5,7 @@ tmp repo for holding fomo stuff
 
 
 # Gradient boosting & Random forest
-[TL;DR](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/) Gradient boosting is "better", but random forest is easier to tune, and maybe faster. Additionally, gradient boosting have trouble when the training data is noisy.
+[TL;DR](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/) Gradient boosting is "better", but random forest is easier to tune, and maybe faster. Additionally, gradient boosting may have trouble when the training data is noisy.
 
 * [Nice overview of ensemble methods](https://medium.com/@aravanshad/ensemble-methods-95533944783f)
 * [A more in-depth review of the strengths and weaknesses of GBM vs RF](https://medium.com/@aravanshad/gradient-boosting-versus-random-forest-cfa3fa8f0d80)
