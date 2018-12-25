@@ -2,9 +2,12 @@
 tmp repo for holding fomo stuff
 
 * [An excellent 12-part ML Course:  Introduction to Machine Learning for Coders](https://www.fast.ai/2018/09/26/ml-launch/), from the makers of `fastai`. "Unlike many educational materials in the field, our approach is “code first” rather than “math first”."
+* [Practical Machine Learning Tutorial with Python Introduction](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/): An extensive ML online course based on sklearn & TensorFlow. Very, very long.
 
 # Pre-processing/Feature Engineering
 
+# Unsupervised methods
+* [A very excellent, visual walk through of how t-SNE works](https://distill.pub/2016/misread-tsne/).
 
 # Gradient boosting & Random forest
 [TL;DR](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/) Gradient boosting is "better", but random forest is easier to tune, and maybe faster. Additionally, gradient boosting may have trouble when the training data is noisy.
