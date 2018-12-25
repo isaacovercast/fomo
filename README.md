@@ -1,6 +1,8 @@
 # fomo
 tmp repo for holding fomo stuff
 
+* [An excellent 12-part ML Course:  Introduction to Machine Learning for Coders](https://www.fast.ai/2018/09/26/ml-launch/), from the makers of `fastai`. "Unlike many educational materials in the field, our approach is “code first” rather than “math first”."
+
 # Pre-processing/Feature Engineering
 
 
@@ -9,6 +11,7 @@ tmp repo for holding fomo stuff
 
 * [Nice overview of ensemble methods](https://medium.com/@aravanshad/ensemble-methods-95533944783f)
 * [A more in-depth review of the strengths and weaknesses of GBM vs RF](https://medium.com/@aravanshad/gradient-boosting-versus-random-forest-cfa3fa8f0d80)
+* [A detailed and careful explanation of Gradient Boosting](https://explained.ai/gradient-boosting/index.html)
 
 ## Gradient Boosting
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/index.html) has nice documentation, [plenty of examples and tutorials](https://github.com/dmlc/xgboost/tree/master/demo) and R & python interfaces. It seems this is a very strong ML package, but could be more difficult to use than other options.
